@@ -10,8 +10,8 @@
 ## Setup
 0. Clone the repository
 ```sh
-git clone https://github.com/luangtatipsy/traditional-vs-nn-feature-vectorization.git
-cd intel-image-classification
+git clone https://github.com/luangtatipsy/nn-vs-traditional-vectorizer.git
+cd nn-vs-traditional-vectorizer
 ```
 1. Create and activate a virtual environment for Python _(recommended)_. If you do not prefer using a virtual environment, skip to step 4.
 ```sh
